@@ -16,14 +16,14 @@ WhaleLauncher is a programmerestrokee designed to display a splash screen and la
 3. 
 
 
-4. Run the script using Python:
+4.
 
 
 ## Usage
 
-1. Place your `wll.cfg` file containing the configuration data in the same directory as `WhaleLauncher.py`.
+1. Place your `wll.cfg` file containing the configuration data in the same directory as `WhaleLauncher.exe`.
 2. Customize the configuration data in `wll.cfg` according to your requirements.
-3. Run `WhaleLauncher.py`, and the script will display the splash screen and launch the specified binary application.
+3. Run `WhaleLauncher.exe`, and the script will display the splash screen and launch the specified binary application.
 
 ## Configuration File (wll.cfg)
 
